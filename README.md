@@ -1,5 +1,5 @@
 
-# Prueba tecnica FRONTEND, para Carryt.co
+# Prueba tecnica FRONTEND
 
 ## Instrucciones de instalacion y despliegue
 Dockerice el proyecto para evitar confusiones con el uso de versiones y facilitar el despliegue y ejecucion del proyecto, se incluyeron los siguiente archivos:
